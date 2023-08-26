@@ -1,0 +1,15 @@
+{
+    "name": "dswilmar/curl_php_example",
+    "authors": [
+        {
+            "name": "Wilmar dos Santos",
+            "email": "dswilmar@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
